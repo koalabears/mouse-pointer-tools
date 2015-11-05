@@ -9,6 +9,6 @@ require('../styles/main.js');
 
 console.log('reactDomRender!');
 ReactDOM.render(
-  <App color="white" showRulers={true}/>,
+  <App color="green" showRulers={true}/>,
   rootElement
 );
