@@ -15,7 +15,8 @@
   },
   "keywords": [
     "React",
-    "Webpack"
+    "Webpack",
+    "react-component"
   ],
   "author": "jrans",
   "license": "ISC",
